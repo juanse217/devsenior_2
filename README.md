@@ -8,6 +8,9 @@
 En la clase 1 y 2 se habla de Maven, su funcionamiento y agregados de proyectos (gitignore y README). 
 
 ## EXCEPCIONES Y ERRORES. 
-En la clase 3 se hablan de las **excepciones**, que son, su funcionamiento, excepciones checked y unchecked, y como crear nuestras propias excepciones. 
+En la clase 3, 4 y 5 se hablan de las **excepciones**, que son, su funcionamiento, excepciones checked y unchecked, y como crear nuestras propias excepciones. 
 
 Se habla poco de **errores**, los errores, a diferencia de las excepciones son cosas externas que pueden ocurrir con la **JVM** que hace que el programa no pueda ser ejecutado. 
+
+## LOGGING.
+En la clase 6 se habla de **logs**
